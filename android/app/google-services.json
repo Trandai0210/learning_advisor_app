@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685156900683",
+    "project_id": "emailauth-c4de1",
+    "storage_bucket": "emailauth-c4de1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685156900683:android:9ee3befe65f6460b6a12ce",
+        "android_client_info": {
+          "package_name": "com.example.edubot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685156900683-c2urnc64po59nd855gjoieub1vkgivhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLxSV97QbJgaFvdRQngnL2OXW2rAoMdBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685156900683-c2urnc64po59nd855gjoieub1vkgivhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
